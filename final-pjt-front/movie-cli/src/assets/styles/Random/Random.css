@@ -1,0 +1,36 @@
+.random__body{
+  padding-top: 50px;
+}
+
+.please__select__movie{
+    height: 50px; 
+    font-size: x-large;
+    text-align: center;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.row {
+    padding: 4vw;
+}
+.complete__button{
+    width:200px;
+    text-align: center;
+    margin: auto;
+    display: block;
+    outline: none;
+    border: 1px solid #BFBFBF;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: medium;
+    background-color: white;
+}
+
+.complete__button:hover {
+    color: #0d0d0d;
+    background-color: #BFBFBF;
+    transition: all 0.2s;
+  }

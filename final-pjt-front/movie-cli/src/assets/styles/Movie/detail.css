@@ -1,0 +1,131 @@
+.movie__detail {
+  display: inline;
+}
+
+.movie__banner > img {
+  height: 35vmin;
+  width: 100%;
+  object-fit: cover;
+  opacity: 60%;
+}
+
+.movie__head {
+  padding-top: 20px !important;
+  padding-bottom: 0px !important;
+}
+
+.movie__poster {
+  text-align: center;
+}
+
+.movie__poster img {
+  left: 10%;
+  top: -10%;
+  /* width: 100%; */
+  border: 2px solid white;
+  border-radius: 3px;
+  aspect-ratio: auto;
+}
+
+.movie__title {
+  font-weight: 800;
+  font-size: xx-large;
+}
+
+@media (max-width: 2300px) {
+  .movie__detail__body {
+    margin-left: 19vw;
+    margin-right: 19vw;
+  }
+  .movie__poster img {
+    width: 80%;
+  }
+}
+
+@media (max-width: 1200px) {
+  .movie__detail__body {
+    margin-left: 13vw;
+    margin-right: 13vw;
+  }
+  .movie__poster img {
+    width: 100%;
+  }
+  .pie__chart {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .movie__detail__body {
+    margin-left: 3vw;
+    margin-right: 3vw;
+  }
+  .movie__banner > img {
+    height: 25vmin;
+  }
+  .movie__poster img {
+    width: 100%;
+  }
+}
+@media (max-width: 576px) {
+  .movie__banner > img {
+    height: 25vmin;
+  }
+  .movie__poster img {
+    width: 100%;
+  }
+  .bar__chart {
+    display: none;
+  }
+  .movie__video {
+    display: none;
+  }
+}
+
+.movie__chart {
+  padding: 10px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.movie__info > div {
+  display: flex;
+  margin-left: 2px;
+}
+
+.movie__info_line1 > p {
+  font-weight: 400;
+  font-size: medium;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+.movie__info_line2 > p {
+  margin-bottom: 2px;
+}
+
+.movie__info_line4 {
+  align-items: center;
+}
+.movie__info_line4 > p {
+  font-size: medium;
+  margin-left: 0.5em;
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.movie__overview {
+  padding-top: 30px !important;
+  margin-left: 20px !important;
+  margin-right: 20px !important;
+  border: 1px solid #bfbfbf;
+  border-radius: 5px;
+}
+.movie__overview__explain {
+  line-height: 1.75em;
+  /* padding-right: 1em !important; */
+  word-break: keep-all;
+  margin-right: 10%;
+}
+
+

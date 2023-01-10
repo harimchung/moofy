@@ -1,0 +1,51 @@
+.recommendation--line {
+  margin-bottom: 75px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.poster-container {
+  overflow-x: auto;
+  scroll-behavior: smooth;
+}
+
+.poster-container::-webkit-scrollbar {
+  display: none;
+}
+
+.arrow-left {
+  color: white;
+  z-index: 9999;
+  position: absolute;
+  top: 42%;
+  left: 2%;
+}
+
+.arrow-right {
+  color: white;
+  z-index: 9999;
+  position: absolute;
+  top: 42%;
+  right: 2.5%;
+}
+
+.cb-recommend-body {
+  padding-top: 50px;
+}
+@media (max-width: 2300px) {
+  .recommendation--line {
+    width: 85%;
+  }
+}
+
+@media (max-width: 1200px) {
+  .recommendation--line {
+    width: 90%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .movie--content {
+    height: 50%;
+    width: auto;
+  }
+}

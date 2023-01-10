@@ -1,0 +1,1608 @@
+[
+  {
+    "model": "movies.movie",
+    "pk": 1,
+    "fields": {
+      "title": "브로커",
+      "nation": "한국",
+      "running_time": 129,
+      "release_date": "2022-06-08",
+      "overview": "세탁소를 운영하지만 늘 빚에 시달리는 상현과 베이비 박스 시설에서 일하는 보육원 출신의 동수. 거센 비가 내리는 어느 날 밤, 그들은 베이비 박스에 놓인 한 아기를 몰래 데려간다. 하지만 이튿날, 생각지 못하게 엄마 소영이 아기 우성을 찾으러 돌아온다. 아기가 사라진 것을 안 소영이 경찰에 신고하려 하자 솔직하게 털어놓는 두 사람. 우성이를 잘 키울 적임자를 찾아 주기 위해서 그랬다는 변명이 기가 막히지만 소영은 우성이의 새 부모를 찾는 여정에 상현, 동수와 함께하기로 한다. 한편 이 모든 과정을 지켜본 형사 수진과 후배 이형사. 반 년째 이어온 수사를 마무리할 수 있는 결정적 증거를 포착하기 위해 이들의 뒤를 조용히 쫓는다.",
+      "genre_ids": [
+        7
+      ],
+      "poster_path": "/8pAoMLsA1h3z2uXvt353P5aScPO.jpg",
+      "backdrop_path": "/dom8lzl2iU46nDu6s4lBolBNjQs.jpg",
+      "popularity": 42.701,
+      "actual_vote_average": 6.67,
+      "man_vote": 6.57,
+      "woman_vote": 6.75,
+      "vote_10": 7.54,
+      "vote_20": 6.7,
+      "vote_30": 6.46,
+      "vote_40": 6.75,
+      "vote_50": 6.79,
+      "profile": [
+        7,
+        0,
+        6.67,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 2,
+    "fields": {
+      "title": "헌트",
+      "nation": "한국",
+      "running_time": 125,
+      "release_date": "2022-08-10",
+      "overview": "북한 고위 관리가 망명을 요청한 이후, 안기부 해외팀 차장 박평호와 국내팀 차장 김정도는 동림으로 알려진 안기부 내 스파이, 남파간첩 총책임자를 밝혀내는 임무를 맡는다. 이윽고 동림이 국가 안보를 위태롭게 할 1급 비밀 정보를 누설하기 시작하고 안기부의 해외팀과 국내팀은 서로를 조사하기에 이른다. 당장 스파이를 밝혀내지 못하면 자신이 혐의를 받을 수 있는 일촉즉발의 상황에서 평호와 정도는 서서히 진실을 찾아내고, 마침내 대한민국 1호 암살 작전이라는 거대한 사건과 직면하게 되는데...",
+      "genre_ids": [
+        17,
+        1
+      ],
+      "poster_path": "/zI0rMYcSUx16pHnsegWExPf1kDF.jpg",
+      "backdrop_path": "/aRJjCgp4uVUkXhDw8NClesQXbt3.jpg",
+      "popularity": 17.813,
+      "actual_vote_average": 8.48,
+      "man_vote": 8.41,
+      "woman_vote": 8.58,
+      "vote_10": 8.76,
+      "vote_20": 8.4,
+      "vote_30": 8.43,
+      "vote_40": 8.67,
+      "vote_50": 8.49,
+      "profile": [
+        17,
+        0,
+        8.48,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 3,
+    "fields": {
+      "title": "컴온 컴온",
+      "nation": "미국",
+      "running_time": 109,
+      "release_date": "2022-06-30",
+      "overview": "어린이의 삶과 미래에 대해 인터뷰하는 라디오 저널리스트 조니. 어머니의 죽음 이후 오랜 시간 등돌리고 살던 여동생 비브의 부탁으로 육아 난이도 극상에 어디로 튈지 모르는 8살 조카 제시를 돌보게 된다. 뜻하지 않게 즐거운 시간과 슬픔의 시간, 조용한 밤과 흥미로운 낮 시간을 함께하게 된 둘. 조니는 제시에게도 인터뷰를 시도하지만 도리어 질문 세례를 받고 마음 깊은 곳에 숨겨둔 과거를 꺼내게 되는데... 이 변화무쌍한 세상 속에 어쩐지 우리, 진짜 가족이 된 것만 같다.",
+      "genre_ids": [
+        7
+      ],
+      "poster_path": "/9PXGqluqPfD024s8gERpo6MD3IF.jpg",
+      "backdrop_path": "/zs1I3ZFUDEWa5rFyph7OrMH1aJ9.jpg",
+      "popularity": 18.973,
+      "actual_vote_average": 7.68,
+      "man_vote": 7.68,
+      "woman_vote": 7.68,
+      "vote_10": 8,
+      "vote_20": 7.88,
+      "vote_30": 7.45,
+      "vote_40": 7.62,
+      "vote_50": 7.75,
+      "profile": [
+        7,
+        0,
+        7.68,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 4,
+    "fields": {
+      "title": "배드 가이즈",
+      "nation": "미국",
+      "running_time": 100,
+      "release_date": "2022-05-04",
+      "overview": "작전 설계부터 금고 해제, 해킹, 액션, 위장까지 완벽한 팀플레이를 펼치는 자타공인 최고의 나쁜 녀석들이 한순간의 실수로 체포된다.  하지만 그들도 착해질 수 있다는 ‘마멀레이드 박사’의 주장으로 나쁜 녀석들은 바른 생활 갓생 프로젝트에 투입되고, 이들은 다시 한번 자유의 몸을 위해 태어나 처음으로 바른 생활에 도전하게 되는데…  나쁜 녀석들의 사상 초유 바른 생활 갓생 프로젝트가 시작된다!",
+      "genre_ids": [
+        3,
+        1,
+        2,
+        5,
+        4
+      ],
+      "poster_path": "/k5TL1oBUqSr6dL9NlHGRr3vJcXd.jpg",
+      "backdrop_path": "/9IDJpHROaC0S1ZlIxrvzOcOX5yC.jpg",
+      "popularity": 333.471,
+      "actual_vote_average": 8.14,
+      "man_vote": 7.9,
+      "woman_vote": 8.37,
+      "vote_10": 9.43,
+      "vote_20": 8.36,
+      "vote_30": 7.91,
+      "vote_40": 8.26,
+      "vote_50": 7.71,
+      "profile": [
+        3,
+        1,
+        8.14,
+        0,
+        1
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 5,
+    "fields": {
+      "title": "리미트",
+      "nation": "한국",
+      "running_time": 87,
+      "release_date": "2022-08-31",
+      "overview": "아동 연쇄 유괴사건 발생으로 수사를 위해 피해자 엄마 대역을 맡게 된 경찰 소은. 사건의 실마리가 잡히지 않아 수사에 난항을 겪고 있는 도중 소은은 누군가로부터 의문의 전화 한 통을 받는다. 그리고, 수화기 너머 들려오는 익숙한 목소리. 범인은 대역이 아닌 소은과의 협상을 요구하는데…",
+      "genre_ids": [
+        17,
+        5
+      ],
+      "poster_path": "/5FuR2q0kuPFbIY1HXQyANlH1W8z.jpg",
+      "backdrop_path": "/8HOGCOnZn9T10htivZ95CGdko8F.jpg",
+      "popularity": 5.406,
+      "actual_vote_average": 6.43,
+      "man_vote": 5.63,
+      "woman_vote": 7.37,
+      "vote_10": 4,
+      "vote_20": 6.3,
+      "vote_30": 6.74,
+      "vote_40": 6,
+      "vote_50": 6.33,
+      "profile": [
+        17,
+        0,
+        6.43,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 6,
+    "fields": {
+      "title": "아인보: 아마존의 전설",
+      "nation": "페루",
+      "running_time": 84,
+      "release_date": "2022-10-26",
+      "overview": "신비의 숲 아마존 깊은 곳에 위치한 칸다모 마을. 생명과 자연의 아름다움이 넘치던 칸다모는  전설 속 악마 야쿠루나의 끔찍한 저주로 위험에 빠진다.  최고의 사냥꾼을 꿈꾸는 소녀 ‘아인보’는 아마존을 구하기 위해 자칭(?) 정령 안내자 ‘딜로’와 ‘바카’와 함께 정글의 수호자 ‘모텔로 마마’를 찾아 떠난다.  아마존의 숨겨진 비밀에 다가갈수록 ‘아인보’ 자신이 생명의 땅을 되돌릴 선택 받은 존재라는 것을 알게 되는데…",
+      "genre_ids": [
+        2,
+        3,
+        8,
+        9
+      ],
+      "poster_path": "/1xGd3BYMIAcEcBvJfyItuogWVPW.jpg",
+      "backdrop_path": "/v4NDRjYO3HYj8nt321BEZB65tWl.jpg",
+      "popularity": 76.686,
+      "actual_vote_average": 9,
+      "man_vote": 8.33,
+      "woman_vote": 10,
+      "vote_10": 0,
+      "vote_20": 10,
+      "vote_30": 6,
+      "vote_40": 9,
+      "vote_50": 10,
+      "profile": [
+        2,
+        0,
+        9,
+        0,
+        4
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 7,
+    "fields": {
+      "title": "앵커",
+      "nation": "한국",
+      "running_time": 111,
+      "release_date": "2022-04-20",
+      "overview": "생방송 5분 전, 방송국 간판 앵커 세라에게 자신이 살해될 것이라며 죽음을 예고하는 제보전화가 걸려온다. 장난전화로 치부하기에는 찝찝한 마음을 감출 수 없는 세라. 진짜 앵커가 될 기회라는 엄마 소정의 말에 세라는 제보자의 집으로 향하고 제보자인 미소와 그녀의 딸의 시체를 목격한다.그날 이후, 세라의 눈앞에 죽은 미소의 모습이 자꾸만 떠오르기 시작한다. 사건 현장에서 미소의 주치의였던 정신과 의사 인호를 마주하게 되며 그에 대한 세라의 의심 또한 깊어지는데…",
+      "genre_ids": [
+        17,
+        13
+      ],
+      "poster_path": "/mfWl5cGXqbDRgQWTHZ7GPbuSKFj.jpg",
+      "backdrop_path": "/zfVKwzECXCcuhMmBl6gjwvNVX5x.jpg",
+      "popularity": 2.54,
+      "actual_vote_average": 7.07,
+      "man_vote": 6.85,
+      "woman_vote": 7.38,
+      "vote_10": 8.6,
+      "vote_20": 7.33,
+      "vote_30": 7.07,
+      "vote_40": 6.71,
+      "vote_50": 6.71,
+      "profile": [
+        17,
+        0,
+        7.07,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 8,
+    "fields": {
+      "title": "비상선언",
+      "nation": "한국",
+      "running_time": 140,
+      "release_date": "2022-08-03",
+      "overview": "베테랑 형사 팀장 인호는 비행기 테러 예고 영상 제보를 받고 사건을 수사하던 중 용의자가 실제로 KI501 항공편에 타고 있음을 파악한다.딸의 치료를 위해 비행 공포증임에도 불구하고 하와이로 떠나기로 한 재혁은 주변을 맴돌며 위협적인 말을 하는 낯선 이가 신경 쓰인다.인천에서 하와이로 이륙한 KI501 항공편에서 원인불명의 사망자가 나오고, 비행기 안은 물론 지상까지 혼란과 두려움의 현장으로 뒤바뀐다.이 소식을 들은 국토부 장관 숙희는 대테러센터를 구성하고 비행기를 착륙시킬 방법을 찾기 위해 긴급회의를 소집하는데…",
+      "genre_ids": [
+        7,
+        1
+      ],
+      "poster_path": "/uqd0w7sevlyBgcIAX1qg8LjsHFM.jpg",
+      "backdrop_path": "/fI8hv1IqWUIUjx4YRfl6TWhdqHW.jpg",
+      "popularity": 109.402,
+      "actual_vote_average": 6.4,
+      "man_vote": 6.02,
+      "woman_vote": 6.78,
+      "vote_10": 6.57,
+      "vote_20": 6.11,
+      "vote_30": 6.33,
+      "vote_40": 6.77,
+      "vote_50": 6.98,
+      "profile": [
+        7,
+        0,
+        6.4,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 9,
+    "fields": {
+      "title": "버즈 라이트이어",
+      "nation": "미국",
+      "running_time": 105,
+      "release_date": "2022-06-15",
+      "overview": "나, 버즈 라이트이어. 인류 구원에 필요한 자원을 감지하고 현재 수많은 과학자들과 미지의 행성으로 향하고 있다. 이번 미션은 인류의 역사를 새롭게 쓸 것이라 확신한다. 잘못된 신호였다. 이곳은 삭막하고 거대한 외계 생물만이 살고 있는 폐허의 땅이다. 나의 실수로 모두가 이곳에 고립되고 말았다. 모두를 구하기 위해서 모든 것을 제자리에 돌려 놔야 한다. 실수를 바로잡기 위한 탈출 미션을 위해 1년의 준비를 마쳤다. 어쩌다 한 팀이 된 정예 부대와 이 미션을 수행할 예정이다. 우주를 집어삼킬 저그 황제와 대규모 로봇 군사의 위협이 계속되지만 나는 절대 포기할 수 없다. 그런데... 여긴 또 어디지? 시간 속에 갇힌 건가?",
+      "genre_ids": [
+        3,
+        1,
+        2,
+        8,
+        15
+      ],
+      "poster_path": "/oMa5NjFxK8Csp6uVQ0tRuF1pWM5.jpg",
+      "backdrop_path": "/hwUxHPkuUleJeoick4uZsrKDXxF.jpg",
+      "popularity": 317.189,
+      "actual_vote_average": 7.44,
+      "man_vote": 7.03,
+      "woman_vote": 7.9,
+      "vote_10": 7.08,
+      "vote_20": 7.48,
+      "vote_30": 7.49,
+      "vote_40": 7.36,
+      "vote_50": 7.12,
+      "profile": [
+        3,
+        1,
+        7.44,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 10,
+    "fields": {
+      "title": "에브리씽 에브리웨어 올 앳 원스",
+      "nation": "미국",
+      "running_time": 139,
+      "release_date": "2022-10-12",
+      "overview": "남편과 세탁소를 운영하며 근근히 살아가고 있는 이민자 이블린 왕. 20대 시절 남편과 순수한 사랑을 불태우며 모든 것을 뒤로 하고 미국으로 이민을 떠났지만, 50대가 된 지금은 세탁소 운영 등 온갖 일로 허덕이며 단란했던 가족과도 삐그덕거리는 등 고달프게 살고 있다. 세무조사를 받던 중 자신이 멀티버스의 여러 다른 자신들과 연결되어 있음을 알게 되고, 강력한 악의 기운으로부터 모든 우주와 가족을 구해내기 위한 모험에 나서게 되는데......",
+      "genre_ids": [
+        1,
+        2,
+        15
+      ],
+      "poster_path": "/aCW0sC55bFnOaUBP2eUGryvAJXf.jpg",
+      "backdrop_path": "/wIR3QRwBhSuss0Nps03XKIHN5dD.jpg",
+      "popularity": 91.749,
+      "actual_vote_average": 8.79,
+      "man_vote": 8.69,
+      "woman_vote": 8.92,
+      "vote_10": 9.04,
+      "vote_20": 8.97,
+      "vote_30": 8.72,
+      "vote_40": 8.44,
+      "vote_50": 8.28,
+      "profile": [
+        1,
+        0,
+        8.79,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 11,
+    "fields": {
+      "title": "극장판 윌벤져스 : 수상한 캠핑 대소동",
+      "nation": "한국",
+      "running_time": 79,
+      "release_date": "2022-06-23",
+      "overview": "동물들과의 대화는 물론, 공룡 젤리를 먹고 엄청난 초능력을 발휘하는 ‘윌리엄’과 ‘벤틀리’는 슈퍼 히어로가 되고 싶은 사고뭉치 히어로 꿈나무들.  어느 날, 샘 아빠와 함께 즐거운 캠핑 여행을 떠난 ‘윌벤져스’는 놀이터에서 신비로운 능력을 가진 여우 소녀 ‘미호’를 만나 친구가 된다  깊은 숲속 신비한 여우굴로 향한 ‘윌벤져스’는 ‘미호’의 놀라운 비밀을 알게 되고, ‘미호’ 가족을 노리는 사냥꾼들의 습격으로 모두가 큰 위험에 빠지고 마는데…  과연 ‘윌벤져스’는 아빠와 친구를 구하고, 무사히 캠핑을 마칠 수 있을까?!",
+      "genre_ids": [
+        3
+      ],
+      "poster_path": "/aqFbi9o4RgM449AeZlzIQYH1INa.jpg",
+      "backdrop_path": null,
+      "popularity": 1.243,
+      "actual_vote_average": 7.38,
+      "man_vote": 8,
+      "woman_vote": 7,
+      "vote_10": 0,
+      "vote_20": 8.5,
+      "vote_30": 7,
+      "vote_40": 7,
+      "vote_50": 0,
+      "profile": [
+        3,
+        0,
+        7.38,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 12,
+    "fields": {
+      "title": "명탐정 코난: 할로윈의 신부",
+      "nation": "일본",
+      "running_time": 110,
+      "release_date": "2022-10-28",
+      "overview": "",
+      "genre_ids": [
+        3
+      ],
+      "poster_path": "/ynhaEt3sUoATFrsiPiqgYIm2Oqi.jpg",
+      "backdrop_path": null,
+      "popularity": 2.744,
+      "actual_vote_average": 9,
+      "man_vote": 8.61,
+      "woman_vote": 9.19,
+      "vote_10": 9.46,
+      "vote_20": 9.12,
+      "vote_30": 8.46,
+      "vote_40": 8.95,
+      "vote_50": 8.47,
+      "profile": [
+        3,
+        0,
+        9,
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 13,
+    "fields": {
+      "title": "특수요원 빼꼼",
+      "nation": "중국",
+      "running_time": 93,
+      "release_date": "2022-06-01",
+      "overview": "의문의 악당에게 빼앗긴 슈퍼칩을 되찾아 세상을 구하고 진정한 특수요원이 되기 위한 ‘빼꼼’의 버라이어티 육해공 어드벤처를 그린",
+      "genre_ids": [
+        3
+      ],
+      "poster_path": "/9ED5ePmQfnTurQ0lzFOsZ5fWoUz.jpg",
+      "backdrop_path": "/9NKkiAYsZYYjHB771D8kf7PijHr.jpg",
+      "popularity": 0.909,
+      "actual_vote_average": 2,
+      "man_vote": 2,
+      "woman_vote": 0,
+      "vote_10": 0,
+      "vote_20": 0,
+      "vote_30": 0,
+      "vote_40": 2,
+      "vote_50": 0,
+      "profile": [
+        3,
+        0,
+        2,
+        0,
+        3
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 14,
+    "fields": {
+      "title": "인생은 아름다워",
+      "nation": "한국",
+      "running_time": 122,
+      "release_date": "2022-09-28",
+      "overview": "무뚝뚝한 남편 진봉과 무심한 아들딸을 위해 헌신하며 살아온 세연은 어느 날 자신에게 시간이 얼마 남지 않았다는 것을 알게 된다. 한치 앞도 알 수 없는 인생에 서글퍼진 세연은 마지막 생일 선물로 문득 떠오른 자신의 첫사랑을 찾아달라는 황당한 요구를 한다. 막무가내로 우기는 아내의 고집에 어쩔 수 없이 여행길에 따라나선 진봉은 아무런 단서도 없이 이름 석자만 가지고 무작정 전국 방방곡곡을 누빈다. 시도 때도 없이 티격태격 다투던 두 사람은 가는 곳곳마다 자신들의 찬란했던 지난날 소중한 기억을 하나 둘 떠올리는데...",
+      "genre_ids": [
+        12,
+        7,
+        14
+      ],
+      "poster_path": "/pZG6SMsRij6MHeRa9wjUAxneDei.jpg",
+      "backdrop_path": "/hS2NJsSNNtmDflANdVuv9jJUm86.jpg",
+      "popularity": 9.123,
+      "actual_vote_average": 8.35,
+      "man_vote": 8.17,
+      "woman_vote": 8.52,
+      "vote_10": 9.11,
+      "vote_20": 8.13,
+      "vote_30": 8.39,
+      "vote_40": 8.41,
+      "vote_50": 8.45,
+      "profile": [
+        12,
+        0,
+        8.35,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 15,
+    "fields": {
+      "title": "서울괴담",
+      "nation": "한국",
+      "running_time": 123,
+      "release_date": "2022-04-27",
+      "overview": "어두운 터널을 홀로 지날 때의 두려움, 옆집에서 들려오는 의문의 소리, 중고 가구에 얽힌 미스터리, 다른 사람을 향한 그릇된 질투. 복수, 저주, 욕망에서 시작된 죽음보다 더한 공포의 실체가 찾아온다!",
+      "genre_ids": [
+        11,
+        9
+      ],
+      "poster_path": "/cFqa7sdxvAv1IjDq6GxqVCIe1DJ.jpg",
+      "backdrop_path": "/auBBPyDYnV51kf3NUbog9jGf7F4.jpg",
+      "popularity": 3.313,
+      "actual_vote_average": 5.52,
+      "man_vote": 5.84,
+      "woman_vote": 5.15,
+      "vote_10": 4,
+      "vote_20": 4.92,
+      "vote_30": 5.88,
+      "vote_40": 5.95,
+      "vote_50": 6.6,
+      "profile": [
+        11,
+        0,
+        5.52,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 16,
+    "fields": {
+      "title": "가재가 노래하는 곳",
+      "nation": "미국",
+      "running_time": 125,
+      "release_date": "2022-11-02",
+      "overview": "어렸을 때 가족에게 버림받고 자연만이 유일한 친구였던 카야. 그녀가 세상과 단절된 채 성장하는 가운데, 테이트가 그녀의 마음을 두드린다. 하지만 그가 떠난 뒤, 밀려오는 외로움 속, 체이스가 그녀에게 적극적인 고백을 하고, 마음이 흔들리기 시작한다. 그러던 어느 날, 체이스는 습지에서 추락사로 싸늘한 시체로 발견되고 카야는 유력한 용의자가 되어 법정에 서게 되는데…  그녀의 비밀이 숨겨져 있는  가재가 노래하는 곳.",
+      "genre_ids": [
+        7,
+        13,
+        17
+      ],
+      "poster_path": "/8wIKnUgj6Sa7j84FJMhDZjeFdNy.jpg",
+      "backdrop_path": "/7Y3LdmsZukXhmwxtO0UF95BFBTt.jpg",
+      "popularity": 138.269,
+      "actual_vote_average": 8.23,
+      "man_vote": 8.09,
+      "woman_vote": 8.5,
+      "vote_10": 10,
+      "vote_20": 7.91,
+      "vote_30": 8.36,
+      "vote_40": 8.57,
+      "vote_50": 7,
+      "profile": [
+        7,
+        0,
+        8.23,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 17,
+    "fields": {
+      "title": "애프터 양",
+      "nation": "미국",
+      "running_time": 96,
+      "release_date": "2022-06-01",
+      "overview": "함께 살던 안드로이드 인간 양이 어느 날 작동을 멈추자 제이크 가족은 그를 수리할 방법을 찾는다. 그러던 중, 양에게서 특별한 메모리 뱅크를 발견하고 그의 기억을 탐험하기 시작하는데…",
+      "genre_ids": [
+        7,
+        15
+      ],
+      "poster_path": "/tDeH8dFeKpHQCRFbs6So05qp6ZJ.jpg",
+      "backdrop_path": "/2kj6FOo0B9NtCen1Ta7LoaPW9wG.jpg",
+      "popularity": 20.348,
+      "actual_vote_average": 8.2,
+      "man_vote": 7.75,
+      "woman_vote": 8.47,
+      "vote_10": 8.95,
+      "vote_20": 8.44,
+      "vote_30": 7.91,
+      "vote_40": 7.9,
+      "vote_50": 8.28,
+      "profile": [
+        7,
+        0,
+        8.2,
+        0,
+        1
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 18,
+    "fields": {
+      "title": "뽀로로 극장판 드래곤캐슬 대모험",
+      "nation": "한국",
+      "running_time": 70,
+      "release_date": "2022-07-28",
+      "overview": "신나게 놀던 뽀로로와 친구들 머리 위로 붉은색 불꽃과 함께 빨간 꼬마 드래곤 아서가 나타난다. 자신이 드래곤의 왕이라며 대뜸 드래곤 하트를 찾아오라 명령하는 아서를 보고 뽀로로와 친구들은 어리둥절한다. 그때, 아서와 함께 온 보석에서 붉은 기운이 나와 크롱을 거대한 드래곤으로 만들고, 하늘에서 내려온 빛이 아이들을 드래곤캐슬에 떨어뜨린다. 아서가 다스렸던 드래곤캐슬은 전혀 다른곳으로 변해 있었고, 왕좌에 앉은 마법사 게드는 드래곤 하트를 내놓으라며 크롱을 잡으려 한다. 드래곤이 된 크롱과 친구들은 무사히 돌아갈 수 있을까?",
+      "genre_ids": [
+        3
+      ],
+      "poster_path": "/fHD3qMzowRDH8DhPBfYZOaRzg4h.jpg",
+      "backdrop_path": "/lVDCbjFaDVvsrAwJYghjXQcs7LW.jpg",
+      "popularity": 0.6,
+      "actual_vote_average": 8.89,
+      "man_vote": 8.91,
+      "woman_vote": 8.87,
+      "vote_10": 10,
+      "vote_20": 8.89,
+      "vote_30": 9.08,
+      "vote_40": 8.97,
+      "vote_50": 6,
+      "profile": [
+        3,
+        0,
+        8.89,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 19,
+    "fields": {
+      "title": "외계+인 1부",
+      "nation": "한국",
+      "running_time": 142,
+      "release_date": "2022-07-20",
+      "overview": "2022년 현재, 가드와 썬더는 인간의 몸에 가두어진 외계인 죄수를 관리하며 지구에 살고 있다. 어느 날, 서울 상공에 우주선이 나타나고 형사 문도석은 기이한 광경을 목격하게 되는데.. 한편, 630년 전 고려시대 얼치기 도사 무륵과 천둥 쏘는 처자 이안이 엄청난 현상금이 걸린 신검을 차지하기 위해 서로를 속고 속이는 가운데 신검의 비밀을 찾는 두 신선 흑설과 청운, 가면 속의 자장도 신검 쟁탈전에 나선다. 그리고 우주선이 깊은 계곡에서 빛을 내며 떠오르는데…",
+      "genre_ids": [
+        1,
+        9,
+        13,
+        15,
+        4,
+        2
+      ],
+      "poster_path": "/i011PWRJcIVe8d9DscLagjRFuXd.jpg",
+      "backdrop_path": "/baf8eep8af9y7ekjN9X1OW9y01V.jpg",
+      "popularity": 111.968,
+      "actual_vote_average": 6.86,
+      "man_vote": 6.44,
+      "woman_vote": 7.32,
+      "vote_10": 6.78,
+      "vote_20": 6.54,
+      "vote_30": 6.79,
+      "vote_40": 7.37,
+      "vote_50": 7.12,
+      "profile": [
+        1,
+        0,
+        6.86,
+        2,
+        0
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 20,
+    "fields": {
+      "title": "탑건: 매버릭",
+      "nation": "미국",
+      "running_time": 130,
+      "release_date": "2022-06-22",
+      "overview": "최고의 파일럿이자 전설적인 인물 매버릭은 자신이 졸업한 훈련학교 교관으로 발탁된다. 그의 명성을 모르던 팀원들은 매버릭의 지시를 무시하지만 실전을 방불케 하는 상공 훈련에서 눈으로 봐도 믿기 힘든 전설적인 조종 실력에 모두가 압도된다. 매버릭의 지휘 아래 견고한 팀워크를 쌓아가던 팀원들에게 국경을 뛰어넘는 위험한 임무가 주어지자 매버릭은 자신이 가르친 동료들과 함께 마지막이 될지 모를 하늘 위 비행에 나서는데...",
+      "genre_ids": [
+        1,
+        7
+      ],
+      "poster_path": "/fBiQdV2fscXTZLkuXT6kYbUleVT.jpg",
+      "backdrop_path": "/odJ4hx6g6vBt4lBWKFD1tI8WS4x.jpg",
+      "popularity": 903.97,
+      "actual_vote_average": 9.6,
+      "man_vote": 9.62,
+      "woman_vote": 9.56,
+      "vote_10": 9.67,
+      "vote_20": 9.58,
+      "vote_30": 9.63,
+      "vote_40": 9.6,
+      "vote_50": 9.47,
+      "profile": [
+        1,
+        2,
+        9.6,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 21,
+    "fields": {
+      "title": "세븐틴 파워 오브 러브 : 더 무비",
+      "nation": "한국",
+      "running_time": 115,
+      "release_date": "2022-04-20",
+      "overview": "2021년 열린 온라인 콘서트 ‘POWER OF LOVE’의 감동이  스크린으로 다시 펼쳐진다!  5연속 밀리언셀러, 빌보드 200 2주 연속 차트인, 오리콘 차트 정상을 꿰차며  매번 새로운 역사를 써 내려가는 글로벌 아티스트 SEVENTEEN의 첫 번째 영화!  풍성한 퍼포먼스부터, 13인 멤버들의 속마음 인터뷰,  과거와 현재 그리고 캐럿과 함께 그려나갈 미래를 담은 다채로운 코멘터리까지 전부 담았다!",
+      "genre_ids": [
+        12
+      ],
+      "poster_path": "/mudITYrZyzvtJ7IZKtUJDuF3aTz.jpg",
+      "backdrop_path": null,
+      "popularity": 0.6,
+      "actual_vote_average": 9.84,
+      "man_vote": 9.33,
+      "woman_vote": 9.88,
+      "vote_10": 10,
+      "vote_20": 9.93,
+      "vote_30": 9.75,
+      "vote_40": 9.5,
+      "vote_50": 8,
+      "profile": [
+        12,
+        0,
+        9.84,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 22,
+    "fields": {
+      "title": "자백",
+      "nation": "한국",
+      "running_time": 105,
+      "release_date": "2022-10-26",
+      "overview": "불륜 사실을 폭로하겠다는 협박을 받고 향한 호텔에서 의문의 습격을 당한 유민호. 정신을 차려보니 함께 있던 김세희는 죽어있고, 범인은 흔적도 없이 사라졌다. 하루아침에 성공한 사업가에서 밀실 살인 사건의 유일한 용의자로 누명을 쓴 유민호는 무죄를 입증하기 위해 승률 100%의 변호사 양신애를 찾는다. 눈 내리는 깊은 산속의 별장에서 마주한 두 사람, 양신애는 완벽한 진술을 위해 처음부터 사건을 재구성해야 한다고 말하고, 사건의 조각들이 맞춰지며 유민호가 감추고 있던 또 다른 사건이 모습을 드러내게 되는데…",
+      "genre_ids": [
+        5,
+        17
+      ],
+      "poster_path": "/AjYU8g4xuXNl0Yw9XGkK7wD59v5.jpg",
+      "backdrop_path": "/p6YKmSgBU54L3MPeyXCS0mC0nM1.jpg",
+      "popularity": 7.878,
+      "actual_vote_average": 8.18,
+      "man_vote": 8.09,
+      "woman_vote": 8.32,
+      "vote_10": 8.75,
+      "vote_20": 8.31,
+      "vote_30": 8.15,
+      "vote_40": 8.08,
+      "vote_50": 7.96,
+      "profile": [
+        5,
+        0,
+        8.18,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 23,
+    "fields": {
+      "title": "극장판 헬로카봇: 수상한 마술단의 비밀",
+      "nation": "한국",
+      "running_time": 79,
+      "release_date": "2022-09-28",
+      "overview": "할아버지 댁으로 휴가를 떠난 차탄과 가족들!  그곳에서 만난 매력만점의 새로운 친구 ‘삼순’과 함께 즐거운 시간을 보낸다.  그때, 할아버지가 키운 명품 수박들이 사라지는 사건이 일어나고  범인은 바로 마을에 자리 잡은 수상한 마술단?  그들이 노리는 것은 바로 수박 에너지!  지구 정복을 노리는 수상한 마술단에 맞서  차탄과 카봇 그리고 새로운 친구 ‘삼순’은  초특급 한판 승부를 벌이게 되는데…!",
+      "genre_ids": [
+        3
+      ],
+      "poster_path": "/lndOP58GOT50xfSxY8RTcDd2NXp.jpg",
+      "backdrop_path": null,
+      "popularity": 1.05,
+      "actual_vote_average": 8.36,
+      "man_vote": 8.14,
+      "woman_vote": 8.67,
+      "vote_10": 9.5,
+      "vote_20": 8.93,
+      "vote_30": 8.2,
+      "vote_40": 8.34,
+      "vote_50": 8,
+      "profile": [
+        3,
+        0,
+        8.36,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 24,
+    "fields": {
+      "title": "봄날",
+      "nation": "한국",
+      "running_time": 102,
+      "release_date": "2022-04-27",
+      "overview": "한때는 잘나가던 큰형님 호성. 8년 만에 출소해 보니 남보다 못한 동생 종성은 애물단지 취급이고, 결혼을 앞둔 맏딸 은옥과 오랜만에 만난 아들 동혁은 호성이 부끄럽기만 하다. 아는 인맥 다 끌어 모은 아버지 장례식에서 부조금을 밑천삼아 기상천외한 비즈니스를 계획하며 제2의 전성기를 꿈꾸는데…",
+      "genre_ids": [
+        7
+      ],
+      "poster_path": "/fmE6H6sntDh0oiBVHCFxoZNksV1.jpg",
+      "backdrop_path": "/AkKWF4tP51SYOe6R61CxeWcU4VX.jpg",
+      "popularity": 1.644,
+      "actual_vote_average": 7.3,
+      "man_vote": 7.37,
+      "woman_vote": 7.16,
+      "vote_10": 5.5,
+      "vote_20": 7.22,
+      "vote_30": 7.17,
+      "vote_40": 7.79,
+      "vote_50": 7.5,
+      "profile": [
+        7,
+        0,
+        7.3,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 25,
+    "fields": {
+      "title": "로스트 시티",
+      "nation": "미국",
+      "running_time": 111,
+      "release_date": "2022-04-20",
+      "overview": "전설의 트레저를 차지하기 위해 재벌 페어팩스(다니엘 래드클리프)는  유일한 단서를 알고 있는 베스트셀러 작가 로레타(산드라 블록)를 납치하게 된다.  어쩔 수 없는 비지니스 관계로 사라진 그녀를 찾아야만 하는 책 커버모델 앨런(채닝 테이텀)은  의문의 파트너(브래드 피트)와 함께 위험한 섬에서 그녀를 구하고 무사히 탈출해야만 하는데…  적과 자연의 위험이 도사리는 일촉즉발 화산섬.",
+      "genre_ids": [
+        1,
+        2,
+        4
+      ],
+      "poster_path": "/8kZapNBZYGJu7AUbJVBDMmQgO1D.jpg",
+      "backdrop_path": "/1Ds7xy7ILo8u2WWxdnkJth1jQVT.jpg",
+      "popularity": 398.739,
+      "actual_vote_average": 6.41,
+      "man_vote": 6.04,
+      "woman_vote": 6.8,
+      "vote_10": 7.14,
+      "vote_20": 6.36,
+      "vote_30": 6.32,
+      "vote_40": 6.52,
+      "vote_50": 6.71,
+      "profile": [
+        1,
+        1,
+        6.41,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 26,
+    "fields": {
+      "title": "극장판 짱구는 못말려: 수수께끼! 꽃피는 천하떡잎학교",
+      "nation": "일본",
+      "running_time": 105,
+      "release_date": "2022-09-28",
+      "overview": "명문 엘리트 양성학교에 체험 입학하게 된 짱구와 친구들! 좋은 성적을 내서 학교에 정식 입학하고 싶은 철수와 장난만 치려는 짱구는 크게 싸우게 된다. 그러던 중 학교에 도는 괴소문의 존재 ‘흡덩귀’에게 철수가 엉덩이를 물린 채 발견된다. 흡덩귀에게 엉덩이를 물리면 엘리트 학생도 모지리로 변하게 되는데…. 철수와 학생들을 구하기 위해 짱구와 떡잎마을 방범대 친구들은 탐정 동아리를 결성하고 수사를 시작한다!  범인은 과연 누구? 짱구는 사건을 해결하고 철수와의 우정을 지킬 수 있을까?!",
+      "genre_ids": [
+        3
+      ],
+      "poster_path": "/sqAm04lTqq5ZBWENlpV25ITAiVw.jpg",
+      "backdrop_path": "/s7LkZrweSohEsAtUJYgVgOHNGS8.jpg",
+      "popularity": 12.673,
+      "actual_vote_average": 8.9,
+      "man_vote": 8.75,
+      "woman_vote": 9.02,
+      "vote_10": 9.04,
+      "vote_20": 9,
+      "vote_30": 8.77,
+      "vote_40": 8.52,
+      "vote_50": 9.05,
+      "profile": [
+        3,
+        0,
+        8.9,
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 27,
+    "fields": {
+      "title": "성덕",
+      "nation": "한국",
+      "running_time": 84,
+      "release_date": "2022-09-28",
+      "overview": "TV 예능프로그램에 아이돌 가수의 ′덕후′로 출연한 십대 소녀는 자신을 ′성덕′(성공한 덕후)이라 자처했다. 같은 프로그램에 그의 스타가 출연했기 때문이다. 몇 년 뒤 그의 스타는 성관계 장면 불법 촬영 및 유포, 집단 성폭행 혐의로 구속되었다. 졸지에 범죄자-스타의 팬이 된 성덕은 분노인지 슬픔인지, 여하튼 혼란스러운 감정 속에 범죄자가 된 스타의 팬들을 만나보기로 한다.",
+      "genre_ids": [
+        6
+      ],
+      "poster_path": "/lAHAVHzuzi66rRMJMCrKvZxdIlc.jpg",
+      "backdrop_path": "/nd356mNTR7oTqu1XeWo0mP15GE0.jpg",
+      "popularity": 1.439,
+      "actual_vote_average": 7.92,
+      "man_vote": 7.18,
+      "woman_vote": 8.38,
+      "vote_10": 0,
+      "vote_20": 8.09,
+      "vote_30": 7.71,
+      "vote_40": 8.08,
+      "vote_50": 7.71,
+      "profile": [
+        6,
+        0,
+        7.92,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 28,
+    "fields": {
+      "title": "니 부모 얼굴이 보고 싶다",
+      "nation": "한국",
+      "running_time": 111,
+      "release_date": "2022-04-27",
+      "overview": "명문 한음 국제중학교 학생 김건우가 같은 반 친구 4명의 이름이 적힌 편지를 남긴 채, 의식불명 상태로 호숫가에서 발견된다. 가해자로 지목된 아이들의 부모들은 자신의 권력과 재력을 이용해 사건을 은폐하려고 한다. 하지만, 담임 교사의 양심 선언으로 건우 엄마 또한 아들의 죽음에 관한 진실을 알게 된다.세상의 이목이 한음 국제중학교로 향하고, 자신의 아이들을 지키기 위한 가해자 부모들의 추악한 민낯이 드러나는데…",
+      "genre_ids": [
+        7,
+        13
+      ],
+      "poster_path": "/kI8Si6MdySaFJDtok6RZlUaD4cF.jpg",
+      "backdrop_path": "/pqvsnazWNktAEgGHfWgLXdV5qFE.jpg",
+      "popularity": 3.114,
+      "actual_vote_average": 7.65,
+      "man_vote": 7.48,
+      "woman_vote": 7.84,
+      "vote_10": 6.27,
+      "vote_20": 7.65,
+      "vote_30": 7.57,
+      "vote_40": 7.82,
+      "vote_50": 7.95,
+      "profile": [
+        7,
+        0,
+        7.65,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 29,
+    "fields": {
+      "title": "시맨틱 에러: 더 무비",
+      "nation": "한국",
+      "running_time": 177,
+      "release_date": "2022-08-31",
+      "overview": "컴공과 '아싸' 추상우의 완벽하게 짜인 일상에 에러처럼 나타난 안하무인 디자인과 '인싸' 장재영, 극과 극 청춘들의 캠퍼스 로맨스가 스크린으로 펼쳐진다!",
+      "genre_ids": [
+        7,
+        14
+      ],
+      "poster_path": "/1fVeAjBVNE8P6c7yGSwQAGQeJpK.jpg",
+      "backdrop_path": "/wiJJkVqJbt9a696NUDzc1gq0t1w.jpg",
+      "popularity": 1.241,
+      "actual_vote_average": 9.35,
+      "man_vote": 7.71,
+      "woman_vote": 9.52,
+      "vote_10": 10,
+      "vote_20": 9.68,
+      "vote_30": 9.48,
+      "vote_40": 8.14,
+      "vote_50": 2,
+      "profile": [
+        7,
+        0,
+        9.35,
+        2,
+        0
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 30,
+    "fields": {
+      "title": "공기살인",
+      "nation": "한국",
+      "running_time": 108,
+      "release_date": "2022-04-22",
+      "overview": "봄이 되면 나타났다 여름이 되면 사라지는 죽음의 병. 공기를 타고 대한민국에 죽음을 몰고 온 살인무기의 실체를 밝히기 위한 그들의 사투. 증발된 범인, 피해자는 증발되지 않았다!",
+      "genre_ids": [
+        7,
+        13
+      ],
+      "poster_path": "/wQ9qGpSgptQAVWkVQpup4ftiBxJ.jpg",
+      "backdrop_path": "/8GcacyGZS5ybHicRTkBBkgJDsBt.jpg",
+      "popularity": 3.954,
+      "actual_vote_average": 8.21,
+      "man_vote": 7.94,
+      "woman_vote": 8.46,
+      "vote_10": 10,
+      "vote_20": 8.19,
+      "vote_30": 8.15,
+      "vote_40": 8.13,
+      "vote_50": 8.5,
+      "profile": [
+        7,
+        0,
+        8.21,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 31,
+    "fields": {
+      "title": "수퍼 소닉2",
+      "nation": "미국",
+      "running_time": 122,
+      "release_date": "2022-04-06",
+      "overview": "강력한 파워의 ‘너클즈’와 함께 돌아온 천재 과학자 ‘닥터 로보트닉’에 맞서 지구를 구하기 위해 ‘소닉’과 새로운 파트너 ‘테일즈’가 전 세계를 누비는 스피드 액션 블록버스터.",
+      "genre_ids": [
+        1,
+        2,
+        8,
+        4
+      ],
+      "poster_path": "/arCDDZdvamNY628gWJVjlCycf69.jpg",
+      "backdrop_path": "/yEQqrW61rwNuVRHTjgHOAU4dXNE.jpg",
+      "popularity": 614.653,
+      "actual_vote_average": 7.77,
+      "man_vote": 7.8,
+      "woman_vote": 7.71,
+      "vote_10": 8.25,
+      "vote_20": 7.78,
+      "vote_30": 7.66,
+      "vote_40": 7.9,
+      "vote_50": 7.77,
+      "profile": [
+        1,
+        2,
+        7.77,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 32,
+    "fields": {
+      "title": "닥터 스트레인지: 대혼돈의 멀티버스",
+      "nation": "미국",
+      "running_time": 126,
+      "release_date": "2022-05-04",
+      "overview": "아메리카는 어느 날 멀티버스 사이를 오갈 수 있는 힘에 눈을 뜨지만 완전히 제어하지 못한다. 정체불명의 악마가 아메리카를 죽이려 하자 다른 우주의 스트레인지가 이를 막아보지만 결국 살해당한다. 우여곡절 끝에 우리가 알고 있는 우주로 넘어온 아메리카는 어벤져스 멤버인 닥터 스트레인지의 도움과 보호를 받는다. 닥터 스트레인지는 웨스트뷰 사건 이후 잠적한 완다에게 도움을 청하지만 곧바로 그녀가 사건의 진정한 흑막, 스칼렛 위치임이 드러난다. 스칼렛 위치는 자신의 원하는 멀티버스로 가기 위해 아메리카의 힘을 흡수하려 한다. 닥터 스트레인지와 아메리카는 압도적인 힘을 지닌 스칼렛 위치를 피해 또 한번 다른 멀티버스로 도망치지만 그의 끈질긴 추격을 받는다.",
+      "genre_ids": [
+        9,
+        1,
+        2
+      ],
+      "poster_path": "/vL5ktZauR0fZMDOHKjakb1idhuU.jpg",
+      "backdrop_path": "/gUNRlH66yNDH3NQblYMIwgZXJ2u.jpg",
+      "popularity": 608.755,
+      "actual_vote_average": 7.77,
+      "man_vote": 7.62,
+      "woman_vote": 8.01,
+      "vote_10": 7.98,
+      "vote_20": 7.61,
+      "vote_30": 7.79,
+      "vote_40": 8.07,
+      "vote_50": 7.62,
+      "profile": [
+        9,
+        2,
+        7.77,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 33,
+    "fields": {
+      "title": "극장판 도라에몽: 진구의 우주소전쟁 리틀스타워즈 2021",
+      "nation": "일본",
+      "running_time": 109,
+      "release_date": "2022-08-03",
+      "overview": "여름방학 어느 날, 진구가 주운 작은 로켓 안에서 손바닥만 한 우주인 ‘파피’가 나타난다!  우주의 머나먼 곳에 있는 작은 별 ‘피리카’의 대통령인 그는  반란군에게서 도망쳐 지구에 왔다고 한다.  처음에는 너무 작은 ‘파피’의 사이즈에 당황하던 도라에몽과 진구는  비밀도구 ‘스몰 라이트’로 작아져서 함께 놀며 친구가 된다.  그러나 고래 형태의 우주전함이 ‘파피’를 붙잡기 위해 지구에 나타나 이들을 공격하고,  모두를 끌어들인 것에 책임감을 느낀 ‘파피’는 홀로 반란군에 맞서고자 하는데…  소중한 친구 ‘파피’와 그의 별을 지키기 위한  도라에몽과 친구들의 우주 모험이 시작된다!",
+      "genre_ids": [
+        3,
+        15,
+        2
+      ],
+      "poster_path": "/1SJZmO5NbBEOLHYeou1OyfgcG9k.jpg",
+      "backdrop_path": "/2UEKQtkx35hGCkgfA5lPVu7GaAm.jpg",
+      "popularity": 251.296,
+      "actual_vote_average": 8.14,
+      "man_vote": 8.13,
+      "woman_vote": 8.17,
+      "vote_10": 0,
+      "vote_20": 8.4,
+      "vote_30": 8.35,
+      "vote_40": 7.67,
+      "vote_50": 8,
+      "profile": [
+        3,
+        1,
+        8.14,
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 34,
+    "fields": {
+      "title": "범죄도시 2",
+      "nation": "한국",
+      "running_time": 106,
+      "release_date": "2022-05-18",
+      "overview": "가리봉동 소탕작전으로부터 4년이 지난 2008년, 금천경찰서 강력반은 베트남으로 도주한 용의자를 인도받아 오라는 미션을 받는다. 그렇게 현지를 물색하던 마석도와 전일만은 용의자에게 미심쩍음을 느껴 추궁한 끝에, 악랄한 강해상의 존재를 알게 된다. 두 형사는 수사권이 없는 상황에도 한국과 베트남을 오가며 역대급 범죄를 저지르는 그를 잡겠다는 일념 하나로 호찌민 이곳저곳을 거침없이 누빈다.",
+      "genre_ids": [
+        5,
+        1
+      ],
+      "poster_path": "/wxNUnSzuMgsT8DFkZjX9GtfOKJX.jpg",
+      "backdrop_path": "/kpM7wX8K66bGZkYvfHXIrnXvDRS.jpg",
+      "popularity": 194.666,
+      "actual_vote_average": 9.01,
+      "man_vote": 8.96,
+      "woman_vote": 9.09,
+      "vote_10": 9.55,
+      "vote_20": 9.12,
+      "vote_30": 8.99,
+      "vote_40": 8.87,
+      "vote_50": 8.62,
+      "profile": [
+        5,
+        0,
+        9.01,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 35,
+    "fields": {
+      "title": "신비한 동물들과 덤블도어의 비밀",
+      "nation": "미국",
+      "running_time": 142,
+      "release_date": "2022-04-13",
+      "overview": "1930년대, 제2차 세계대전에 마법사들이 개입하게 되면서 강력한 어둠의 마법사 그린델왈드의 힘이 급속도로 커진다. 덤블도어는 뉴트 스캐맨더에게 위대한 마법사 가문 후손, 마법학교의 유능한 교사, 머글 등으로 이루어진 팀에게 임무를 맡긴다. 이에 뉴트와 친구들은 머글과의 전쟁을 선포한 그린델왈드와 추종자들, 그의 위험한 신비한 동물들에 맞서 세상을 구할 거대한 전쟁에 나선다. 한편 전쟁의 위기가 최고조로 달한 상황 속에서 덤블도어는 더 이상 방관자로 머물 수 없는 순간을 맞이하고, 서서히 숨겨진 비밀이 드러나는데...",
+      "genre_ids": [
+        9,
+        2,
+        1
+      ],
+      "poster_path": "/uvQbXjMgC5weQepx4jLJJ60H3N0.jpg",
+      "backdrop_path": "/zGLHX92Gk96O1DJvLil7ObJTbaL.jpg",
+      "popularity": 347.505,
+      "actual_vote_average": 6.83,
+      "man_vote": 6.37,
+      "woman_vote": 7.21,
+      "vote_10": 7.07,
+      "vote_20": 7.01,
+      "vote_30": 6.55,
+      "vote_40": 6.82,
+      "vote_50": 7.07,
+      "profile": [
+        9,
+        1,
+        6.83,
+        2,
+        1
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 36,
+    "fields": {
+      "title": "리멤버",
+      "nation": "한국",
+      "running_time": 128,
+      "release_date": "2022-10-26",
+      "overview": "뇌종양 말기, 80대 알츠하이머 환자인 한필주. 일제강점기 때 친일파들에게 가족을 모두 잃었다. 아내가 세상을 떠나자 필주는 60여 년을 계획해 온 복수를 감행하려고 한다. 그는 알바 중인 패밀리 레스토랑에서 절친이 된 20대 알바생 인규에게 일주일만 운전을 도와 달라 부탁한다. 이유도 모른 채 필주를 따라나선 인규는 첫 복수 현장의 CCTV에 노출되어 유력 용의자로 지목된다. 경찰은 수사망을 좁혀오고 사라져가는 기억과 싸우며 필주는 복수를 이어가는데…",
+      "genre_ids": [
+        1,
+        17
+      ],
+      "poster_path": "/1MIa1d1jhSqp3s587oruFv3UiSP.jpg",
+      "backdrop_path": "/9tAnhNqi2WWFpBgBQZFUvX2m24T.jpg",
+      "popularity": 4.854,
+      "actual_vote_average": 7.92,
+      "man_vote": 7.73,
+      "woman_vote": 8.2,
+      "vote_10": 8.7,
+      "vote_20": 7.81,
+      "vote_30": 8.02,
+      "vote_40": 7.88,
+      "vote_50": 7.79,
+      "profile": [
+        1,
+        0,
+        7.92,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 37,
+    "fields": {
+      "title": "고속도로 가족",
+      "nation": "한국",
+      "running_time": 129,
+      "release_date": "2022-11-02",
+      "overview": "고속도로 휴게소에서 텐트를 집, 밤하늘의 달을 조명 삼아 살고 있는 기우와 가족들. 다시 마주칠 일 없는 휴게소 방문객들에게 돈을 빌려 캠핑하듯 유랑하며 살아가던 이들이 어느 날, 이미 한 번 만난 적 있는 영선과 다른 휴게소에서 다시 마주친다. 인생은 놀이, 삶은 여행처럼 살아가던 고속도로 가족과 그들이 신경 쓰이는 영선. 이 두 번의 우연한 만남은 예기치 못한 사건으로 이어지는데...",
+      "genre_ids": [
+        7,
+        8
+      ],
+      "poster_path": "/5LoxZ4r8UNjSZ3jt94gcn8sYATV.jpg",
+      "backdrop_path": "/nusEcTi47wq0VR5YLNcdtIlrDyy.jpg",
+      "popularity": 6.053,
+      "actual_vote_average": 7.67,
+      "man_vote": 7,
+      "woman_vote": 9,
+      "vote_10": 0,
+      "vote_20": 5,
+      "vote_30": 8,
+      "vote_40": 8.5,
+      "vote_50": 8,
+      "profile": [
+        7,
+        0,
+        7.67,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 38,
+    "fields": {
+      "title": "카시오페아",
+      "nation": "한국",
+      "running_time": 102,
+      "release_date": "2022-06-01",
+      "overview": "이혼 후 변호사, 엄마로 완벽한 삶을 살아가려고 노력하는 수진은 하나뿐인 딸 지나의 미국 유학을 준비하고 있다. 정신없이 바쁜 수진을 위해 아빠 인우가 손녀를 돌보게 되면서 세 사람은 함께 살게 된다. 얼마 후 수진은 교통사고를 당하고, 병원에서 알츠하이머라는 뜻밖의 결과를 듣게 된다. 사랑하는 딸을 잊을까 봐 두려워하는 수진을 위해 아빠 인우는 수진의 곁을 지키고, 기억을 잊어도 살아갈 수 있도록 이들 부녀만의 애틋한 동행이 시작된다.",
+      "genre_ids": [
+        7
+      ],
+      "poster_path": "/wdsyRDJci5emMGChzA6haBd9vsG.jpg",
+      "backdrop_path": "/dIMugnYNG78q1UdndUjfFpFxWKx.jpg",
+      "popularity": 1.484,
+      "actual_vote_average": 8.42,
+      "man_vote": 8.17,
+      "woman_vote": 8.79,
+      "vote_10": 8.5,
+      "vote_20": 8.21,
+      "vote_30": 8.13,
+      "vote_40": 8.92,
+      "vote_50": 8.86,
+      "profile": [
+        7,
+        0,
+        8.42,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 39,
+    "fields": {
+      "title": "놉",
+      "nation": "미국",
+      "running_time": 130,
+      "release_date": "2022-08-17",
+      "overview": "거대하고, 주목받길 원하고, 미쳤다. 나쁜 기적이라는 것도 있을까?",
+      "genre_ids": [
+        11,
+        13,
+        15,
+        17
+      ],
+      "poster_path": "/52McjY2vAEiF0lJe8iBdOBNuyok.jpg",
+      "backdrop_path": "/x1VhwiNjr1dD0s5PT2iYvvOh2Op.jpg",
+      "popularity": 259.099,
+      "actual_vote_average": 7.4,
+      "man_vote": 7.27,
+      "woman_vote": 7.58,
+      "vote_10": 7.59,
+      "vote_20": 7.52,
+      "vote_30": 7.33,
+      "vote_40": 7.36,
+      "vote_50": 7.24,
+      "profile": [
+        11,
+        1,
+        7.4,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 40,
+    "fields": {
+      "title": "헤어질 결심",
+      "nation": "한국",
+      "running_time": 138,
+      "release_date": "2022-06-29",
+      "overview": "산 정상에서 추락한 한 남자의 변사 사건. 담당 형사 해준은 사망자의 아내 서래와 마주하게 된다. 남편의 죽음 앞에서 특별한 동요를 보이지 않는 서래. 경찰은 보통의 유가족과는 다른 서래를 용의선상에 올린다. 해준은 사건 당일의 알리바이 탐문과 신문, 잠복수사를 통해 서래를 알아가면서 그녀에 대한 관심이 점점 커져가는 것을 느낀다. 한편 좀처럼 속을 짐작하기 어려운 서래는 상대가 자신을 의심한다는 것을 알면서도 조금의 망설임도 없이 해준을 대하는데...",
+      "genre_ids": [
+        13,
+        17,
+        5,
+        7,
+        14
+      ],
+      "poster_path": "/yGXMia1VNEovB7014ldTHwT1r50.jpg",
+      "backdrop_path": "/A1bWhTFQKkhF1yhSKWosSyzn2Hp.jpg",
+      "popularity": 114.004,
+      "actual_vote_average": 8.96,
+      "man_vote": 8.85,
+      "woman_vote": 9.06,
+      "vote_10": 9.41,
+      "vote_20": 9.07,
+      "vote_30": 8.87,
+      "vote_40": 8.89,
+      "vote_50": 8.63,
+      "profile": [
+        13,
+        0,
+        8.96,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 41,
+    "fields": {
+      "title": "마녀(魔女) Part2. The Other One",
+      "nation": "한국",
+      "running_time": 137,
+      "release_date": "2022-06-15",
+      "overview": "자윤이 사라진 뒤, 정체불명의 집단의 무차별 습격으로 마녀 프로젝트가 진행되고 있는 아크가 초토화된다. 그곳에서 홀로 살아남은 소녀는 생애 처음 세상 밖으로 발을 내딛고 우연히 만난 경희의 도움으로 농장에서 지내며 따뜻한 일상에 적응해간다. 한편, 소녀가 망실되자 행방을 쫓는 책임자 장과 마녀 프로젝트의 창시자 백총괄의 지령을 받고 제거에 나선 본사 요원 조현, 경희의 농장 소유권을 노리는 조직의 보스 용두와 상해에서 온 의문의 4인방까지 각기 다른 목적을 지닌 세력이 하나 둘 모여들기 시작하면서 소녀 안에 숨겨진 본성이 깨어나는데…",
+      "genre_ids": [
+        1,
+        13,
+        17,
+        15
+      ],
+      "poster_path": "/cah6iIYQBctvCmBjsKGb1NCiygr.jpg",
+      "backdrop_path": "/yCLPWu56FBKaLeK2DsnQr4QLkIt.jpg",
+      "popularity": 120.13,
+      "actual_vote_average": 6.98,
+      "man_vote": 6.85,
+      "woman_vote": 7.17,
+      "vote_10": 7.16,
+      "vote_20": 7.05,
+      "vote_30": 6.89,
+      "vote_40": 7.06,
+      "vote_50": 6.92,
+      "profile": [
+        1,
+        0,
+        6.98,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 42,
+    "fields": {
+      "title": "불릿 트레인",
+      "nation": "미국",
+      "running_time": 126,
+      "release_date": "2022-08-24",
+      "overview": "운이 없기로 유명한 킬러 레이디버그는 초고속 열차에 탑승해 의문의 서류 가방을 가져오라는 미션을 받는다. 생각보다 쉽게 미션을 클리어한 후 열차에서 내리려는 그를 가로막는 것이 있었으니,  그것은 바로 전세계에서 몰려든 초특급 킬러들. 열차에서 내릴 수 없다면 목숨을 걸고 가방을 지켜야만 한다. 과연 레이디버그는 무사히 열차에서 내려 미션을 완수할 수 있을까?",
+      "genre_ids": [
+        1,
+        4,
+        17
+      ],
+      "poster_path": "/msh4N8dxHk4FeEPZ8VBqHQFQYjI.jpg",
+      "backdrop_path": "/zt6sKnx9dEiRCb7oVMlfmmMGJMO.jpg",
+      "popularity": 885.009,
+      "actual_vote_average": 6.94,
+      "man_vote": 7.01,
+      "woman_vote": 6.81,
+      "vote_10": 8.12,
+      "vote_20": 7.06,
+      "vote_30": 6.82,
+      "vote_40": 6.84,
+      "vote_50": 7.08,
+      "profile": [
+        1,
+        2,
+        6.94,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 43,
+    "fields": {
+      "title": "쥬라기 월드: 도미니언",
+      "nation": "미국",
+      "running_time": 147,
+      "release_date": "2022-06-01",
+      "overview": "공룡들의 터전이었던 이슬라 누블라 섬이 파괴된 후,  마침내 공룡들은 섬을 벗어나 세상 밖으로 출몰한다. 지상에 함께 존재해선 안 될 위협적 생명체인 공룡의 등장으로 인류 역사상 겪어보지 못한 사상 최악의 위기를 맞이한 인간들. 지구의 최상위 포식자 자리를 걸고 인간과 공룡의 최후의 사투가 펼쳐진다.",
+      "genre_ids": [
+        2,
+        1,
+        15
+      ],
+      "poster_path": "/odxdUZWZ7fBfy3ZRj063wuJnZvo.jpg",
+      "backdrop_path": "/3PieOs1t6dPHWlgvX3XoqTIQLqN.jpg",
+      "popularity": 803.21,
+      "actual_vote_average": 6.79,
+      "man_vote": 6.47,
+      "woman_vote": 7.23,
+      "vote_10": 6.24,
+      "vote_20": 6.88,
+      "vote_30": 6.71,
+      "vote_40": 6.87,
+      "vote_50": 6.82,
+      "profile": [
+        2,
+        2,
+        6.79,
+        2,
+        1
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 44,
+    "fields": {
+      "title": "한산: 용의 출현",
+      "nation": "한국",
+      "running_time": 129,
+      "release_date": "2022-07-27",
+      "overview": "1592년 4월, 조선은 임진왜란 발발 후 단 15일 만에 왜군에 한양을 빼앗기며 절체절명의 위기에 놓인다. 조선을 단숨에 점령한 왜군은 명나라로 향하는 야망을 꿈꾸며 대규모 병역을 부산포로 집결시킨다. 한편, 이순신 장군은 연이은 전쟁의 패배와 선조마저 의주로 파천하며 수세에 몰린 상황에서도 조선을 구하기 위해 전술을 고민하며 출전을 준비한다. 하지만 앞선 전투에서 손상을 입은 거북선의 출정이 어려워지고, 거북선의 도면마저 왜군의 첩보에 의해 도난당하게 되는데…",
+      "genre_ids": [
+        10,
+        1,
+        7,
+        18
+      ],
+      "poster_path": "/iDechwq1Of0gkvfWHSjdPbA4qQq.jpg",
+      "backdrop_path": "/bHXrZnsYAh8nfjmB3W2OvfQMVVp.jpg",
+      "popularity": 114.65,
+      "actual_vote_average": 8.56,
+      "man_vote": 8.3,
+      "woman_vote": 8.9,
+      "vote_10": 9.08,
+      "vote_20": 8.51,
+      "vote_30": 8.54,
+      "vote_40": 8.59,
+      "vote_50": 8.64,
+      "profile": [
+        10,
+        0,
+        8.56,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 45,
+    "fields": {
+      "title": "늑대사냥",
+      "nation": "한국",
+      "running_time": 121,
+      "release_date": "2022-09-21",
+      "overview": "동남아시아로 도피한 인터폴 수배자들을 이송할 움직이는 교도소 프론티어 타이탄. 극악무도한 이들과 베테랑 형사들이 필리핀 마닐라 항구에 모이고 탈출을 꿈꾸는 종두, 한국으로 돌아가야만 하는 도일을 비롯해 이들은 각자의 목적과 경계심을 품고 탑승한다. 한국으로 향하던 중, 태평양 한 가운데에서 이들에게는 지금까지 보지 못한 극한의 상황과 마주하게 되는데…",
+      "genre_ids": [
+        15,
+        1,
+        17
+      ],
+      "poster_path": "/op2y1gvqKhAh4yAPLwc4PlX3XRv.jpg",
+      "backdrop_path": "/gEpeM4hrAcyzlO223DJQ7BKjuW9.jpg",
+      "popularity": 326.796,
+      "actual_vote_average": 5.51,
+      "man_vote": 4.98,
+      "woman_vote": 6.09,
+      "vote_10": 5.25,
+      "vote_20": 5.23,
+      "vote_30": 5.24,
+      "vote_40": 6.48,
+      "vote_50": 5.23,
+      "profile": [
+        15,
+        1,
+        5.51,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 46,
+    "fields": {
+      "title": "블랙 아담",
+      "nation": "미국",
+      "running_time": 125,
+      "release_date": "2022-10-19",
+      "overview": "기원전 가장 번성하고 위대한 고대 국가였지만 현재는 국제 군사 조직 인터갱의 독재 국가로 전락한 칸다크. 인터갱의 눈을 피해 고대 유물을 찾던 '아드리아나'는 우연히 5000년 동안 잠들어 있던 '블랙 아담'을 깨우게 된다.  엄청난 괴력과 스피드, 방탄 능력과 자유자재의 고공비행, 번개를 쏘는 능력까지. 온몸이 무기인 '블랙 아담'은 자신의 앞을 막아서는 인터갱들을 모조리 쓸어버리고 칸다크 국민들은 이에 열광한다. 한편, 그의 폭주를 막기 위해 호크맨, 닥터 페이트, 아톰 스매셔, 사이클론으로 구성된 히어로 군단 '저스티스 소사이어티'가 칸다크에 나타나는데...",
+      "genre_ids": [
+        1,
+        9,
+        15
+      ],
+      "poster_path": "/mEdMHGy1FfCUc7PskFO0tibm8jp.jpg",
+      "backdrop_path": "/bQXAqRx2Fgc46uCVWgoPz5L5Dtr.jpg",
+      "popularity": 3164.736,
+      "actual_vote_average": 7.63,
+      "man_vote": 7.56,
+      "woman_vote": 7.81,
+      "vote_10": 7.86,
+      "vote_20": 7.56,
+      "vote_30": 7.65,
+      "vote_40": 7.65,
+      "vote_50": 7.69,
+      "profile": [
+        1,
+        3,
+        7.63,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 47,
+    "fields": {
+      "title": "극장판 5등분의 신부",
+      "nation": "일본",
+      "running_time": 136,
+      "release_date": "2022-09-22",
+      "overview": "「낙제 직전」「공부가 싫은」미소녀 다섯 쌍둥이를  아르바이트 가정 교사로서 「졸업」까지 이끈 후타로.  배우에 전념하기 위해 휴학하기로 한 이치카의 공부를 봐주면서  「학교 축제」 준비에 힘쓰는 후타로와,  후회 없는 「학교 축제」를 만들기 위해 평소 이상으로 노력하는 요츠바.  어지러운 날들이 지나고 정신을 차려보니 「학교 축제」 전날.  후타로는 포기하지 않고 힘쓰는 이츠키의 모습에 힘입어,  니노의 각오와 미쿠의 결의, 그리고 이치카·요츠바·이츠키에 대한 마음의 답을 찾는다.  저마다의 생각을 안고 있는 와중,  드디어 시작된 고교 생활 최후의(마지막) 이벤트인 「학교 축제」 첫날.  『학교 축제 첫날 15시에 교실에 와줘』  교실에 모인 다섯 쌍둥이는, 후타로에게 어떠한 마음을 고백 받게 될까?",
+      "genre_ids": [
+        3,
+        4,
+        14
+      ],
+      "poster_path": "/63SDXxNKOA4ZfXvRCkF9B1y14Us.jpg",
+      "backdrop_path": "/jBIMZ0AlUYuFNsKbd4L6FojWMoy.jpg",
+      "popularity": 475.395,
+      "actual_vote_average": 8.43,
+      "man_vote": 8.43,
+      "woman_vote": 8.5,
+      "vote_10": 8.89,
+      "vote_20": 8.64,
+      "vote_30": 7.44,
+      "vote_40": 8.29,
+      "vote_50": 0,
+      "profile": [
+        3,
+        1,
+        8.43,
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 48,
+    "fields": {
+      "title": "그대가 조국",
+      "nation": "한국",
+      "running_time": 124,
+      "release_date": "2022-05-25",
+      "overview": "검찰의 칼날이 그대에게 향하지 않는다고 자신할 수 있는가. 사냥이 시작됐다. 검찰이 던진 좌표를 따라 언론은 몰려들고 소문은 꼬리를 문다. 분노한 대중 앞에 검찰은 칼을 휘두른다. 저기 쫓기는 자는 누구인가. 그대가 아니라고 자신할 수 있는가.",
+      "genre_ids": [
+        6
+      ],
+      "poster_path": "/lMtfk3CCYhfg0WsXpOLhooBHCQc.jpg",
+      "backdrop_path": "/cv8JfaNW35jsWs2VbFKS4MTZpZX.jpg",
+      "popularity": 0.6,
+      "actual_vote_average": 9.68,
+      "man_vote": 9.5,
+      "woman_vote": 9.8,
+      "vote_10": 8,
+      "vote_20": 9.3,
+      "vote_30": 9.6,
+      "vote_40": 9.86,
+      "vote_50": 9.73,
+      "profile": [
+        6,
+        0,
+        9.68,
+        1,
+        0
+      ]
+    }
+  }
+]

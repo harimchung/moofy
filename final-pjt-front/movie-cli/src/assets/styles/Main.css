@@ -1,0 +1,24 @@
+@media (max-width: 2300px){
+    .main-body{
+        margin: 50px;
+        padding-left: 5vw;
+        padding-right: 5vw;
+    }
+}
+
+@media (max-width: 1200px){
+    .main-body{
+        margin: 50px;
+        padding-left: 3vw;
+        padding-right: 3vw;
+    }
+}
+
+@media (max-width: 768px){
+    .main-body{
+        margin: 50px;
+        padding-left: 2vw;
+        padding-right: 2vw;
+    }
+}
+

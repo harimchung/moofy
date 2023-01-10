@@ -1,0 +1,26 @@
+.movie__card{
+    border: none;
+    height: 300px;
+}
+.card-img-top{
+    border-bottom-left-radius: var(--bs-card-inner-border-radius);
+    border-bottom-right-radius: var(--bs-card-inner-border-radius);
+    object-fit: contain;
+    transition: transform 450ms;
+}
+.isSelected {
+    filter: brightness(30%);
+  }
+.card-img-top:hover {
+    transform: scale(1.03);
+  }
+
+.card-body > .movie__title{
+    font-size: large ;
+    font-weight: 400 ;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-align: center;
+    
+}

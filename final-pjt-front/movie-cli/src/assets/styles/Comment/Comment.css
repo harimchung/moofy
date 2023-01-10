@@ -1,0 +1,101 @@
+.star--box {
+  padding-top: 10px;
+  padding-bottom: 5px;
+  display: flex;
+  align-content: center;
+}
+.star--box > p{
+  margin-top: 50%;
+  margin-bottom: 50%;
+}
+.vue-star-rating-rating-text {
+  margin-left: 1em !important;
+  font-family: "Pretendard", sans-serif !important;
+}
+
+.comment--list--item {
+  /* background-color: #bfbfbf; */
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-bottom: 0.5px solid #bfbfbf;
+}
+
+.comment--rating {
+  font-size: medium;
+  margin-left: 0.25em;
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.comment__button {
+  cursor: pointer;
+  outline: none;
+  border: 1px solid #bfbfbf;
+  background-color: white;
+  font-weight: 400;
+  border-radius: 5px;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
+}
+
+.comment__button:hover {
+  background-color: #bfbfbf;
+  transition: 0.5s;
+}
+
+.update__delete__box {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.update__button {
+  cursor: pointer;
+  outline: none;
+  border: 1px solid #bfbfbf;
+  background-color: white;
+  border-radius: 5px;
+  padding-right: 0.7rem;
+  padding-left: 0.7rem;
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
+  margin-right: 0.7rem;
+}
+
+.update__button:hover {
+  background-color: #bfbfbf;
+  color: white;
+  font-weight: 300;
+  transition: 0.2s;
+}
+
+.delete__button {
+  cursor: pointer;
+  outline: none;
+  border: none;
+  background-color: #d8d8d8;
+  border-radius: 5px;
+  padding-right: 0.7rem;
+  padding-left: 0.7rem;
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
+  margin-right: 0.7rem;
+}
+
+.delete__button:hover {
+  background-color: #d91e50;
+  color: white;
+  font-weight: 300;
+  transition: 0.2s;
+}
+
+.comment--update--form{
+    margin-left : 50px;
+    margin-top: 20px;
+    padding-top : 20px;
+    padding-left: 20px;
+    background-color: rgba(216,216,216,0.2);
+    border-radius: 4px;
+}

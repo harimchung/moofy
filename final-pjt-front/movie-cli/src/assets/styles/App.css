@@ -1,0 +1,107 @@
+nav {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 4.5vw;
+  padding-right: 4.5vw;
+  z-index: 1;
+  transition-timing-function: ease-in;
+  transition: all 0.5s;
+  height: 7vh;
+  border-bottom: 0.05px solid #dddddd;
+}
+
+.nav__white {
+  background-color: white;
+}
+
+
+#nav a.router-link-exact-active {
+  color: #d91e50;
+}
+
+#nav .left {
+  display: flex;
+  align-items: center;
+  font-weight: 400;
+  padding: 0.5em;
+  width: 8rem;
+  /* white-space: nowrap; */
+}
+
+#nav .left .logo :hover{
+  cursor: pointer;
+}
+
+
+.nav__logo {
+  width: 100px;
+  object-fit: contain;
+}
+
+
+
+
+
+@media (max-width: 750px){
+  #nav .right .search {
+      display: none;
+  }
+}
+
+#nav .right .search {
+  border: 1px solid #bfbfbf;
+  border-radius: 5px;
+  background-color: transparent;
+  padding: 3px;
+  margin-right: 15px;
+}
+#nav .right .search .search-bar {
+  display: inline-block !important;
+
+}
+#nav .right .search .search-bar .icon {
+  margin-left: 0.3em;
+  margin-right: 0.5em;
+  color: #bfbfbf;
+}
+#nav .right .search .search-bar input {
+  background-color: transparent;
+  border: none;
+  color: #0d0d0d;
+  outline: none;
+}
+
+nav .right .signup__button {
+  cursor: pointer;
+  outline: none;
+  border: 1px solid #bfbfbf;
+  font-weight: 400;
+  border-radius: 5px;
+  margin-right: 1.5rem;
+  margin-left: 1rem;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
+  background-color: transparent;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+nav .right .login__button {
+  cursor: pointer;
+  outline: none;
+  border: none;
+  font-weight: 400;
+  border-radius: 0.2vw;
+  background-color: transparent;
+}
+
+.search-bar > input::placeholder {
+  font-size: smaller;
+}
