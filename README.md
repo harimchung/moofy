@@ -2,7 +2,7 @@
 
  
 <br/><br/>
-![moofie_logo](/uploads/2a7af08b7a0af7459c0c580d9b855b7a/moofie_logo.png)
+![moofie_logo](https://user-images.githubusercontent.com/109330637/211445076-31e8a3cb-800d-4188-b063-f87d31904da0.png)
 
 #### **M**ovie **O**nly One **F**or **Y**ou
 
@@ -120,8 +120,7 @@ $ npm run serve
 
 ## 데이터베이스 모델링
 
-
-![movie_erd](/uploads/fa9d41d97f8e77e86b2670b5f93e4557/movie_erd.png)
+![movie_erd](https://user-images.githubusercontent.com/109330637/211445094-832110a2-9ff2-4cb0-b97a-537d57b97842.png)
 
 1. 영화진흥위원회 api에서 제공하는 주간 박스오피스 영화의 제목을 약 3000개 정도 수집
 2. 수집한 제목 데이터를 바탕으로 python 크롤링 프로그램을 작성하여, 네이버 영화 페이지에서 `부가 정보`가 존재하는 영화와 `tmdb` api에서 제공하는 video key값이 존재하는 영화를 대상으로 약 300개 정도의 데이터를 수집
